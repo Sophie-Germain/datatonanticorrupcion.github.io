@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/info/reglas/</loc>
+    <loc>https://datatonanticorrupcio.github.io/info/reglas/</loc>
     <lastmod>2018-11-14T14:42:12-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/info/preguntas/</loc>
+    <loc>https://datatonanticorrupcio.github.io/info/preguntas/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://datatonanticorrupcio.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2018-11-14T14:42:12-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/info/</loc>
+    <loc>https://datatonanticorrupcio.github.io/</loc>
     <lastmod>2018-11-14T14:42:12-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://datatonanticorrupcio.github.io/info/</loc>
+    <lastmod>2018-11-14T14:42:12-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datatonanticorrupcio.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
